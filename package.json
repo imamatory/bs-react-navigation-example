@@ -1,0 +1,12 @@
+{
+  "name": "bs-react-navigation",
+  "version": "0.0.1",
+  "scripts": {
+    "build": "bsb -make-world -clean-world"
+  },
+  "dependencies": {
+    "bs-platform": "^2.2.3",
+    "bs-react-native": "git+https://github.com/reasonml-community/bs-react-native.git",
+    "reason-react": "^0.3.4"
+  }
+}

@@ -1,0 +1,5 @@
+type t = [
+  | `Index
+  | `Home
+];
+

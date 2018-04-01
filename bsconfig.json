@@ -1,0 +1,16 @@
+{
+  "name": "AppWithReason",
+  "refmt": 3,
+  "bsc-flags": ["-bs-super-errors"],
+  "bs-dependencies": [
+    "reason-react",
+    "bs-react-native"
+  ],
+  "sources": [
+    {
+      "dir": "src",
+      "subdirs": true
+    }
+  ]
+}
+
